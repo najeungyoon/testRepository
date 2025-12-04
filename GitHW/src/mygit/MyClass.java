@@ -11,6 +11,9 @@ public class MyClass {
 		
 		// ver3
 		System.out.println("this is ver3");
+		
+		secondClass secC = new secondClass();
+		secC.printhello();
 	}
 
 }
