@@ -2,11 +2,9 @@ package mygit;
 
 public class secondClass {
 
-	public secondClass() {
-		
-	}
+	String hello = "hihihihi";
 	
 	public void printhello() {
-		System.out.println("hello");
+		System.out.println("hello"+hello);
 	}
 }
