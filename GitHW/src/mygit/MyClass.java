@@ -12,14 +12,11 @@ public class MyClass {
 		// ver3
 		System.out.println("this is ver3");
 		
-<<<<<<< HEAD
 		secondClass secC = new secondClass();
 		secC.printhello();
-=======
 		// ver4
 		secondClass sec = new secondClass();
 		sec.printhello();
->>>>>>> refs/heads/dev
 	}
 
 }
